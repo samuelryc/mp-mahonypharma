@@ -1,0 +1,11 @@
+.activities-page {
+	font-size:12px;
+	padding:0 40px;
+	color:rgb(68,68,68);
+}
+
+.activities-page > p {
+	line-height: 210%;
+	margin:10px 0 10px 0;
+	text-align: justify;
+}

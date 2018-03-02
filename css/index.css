@@ -1,0 +1,15 @@
+.index-page {
+	font-size:12px;
+	padding:0 40px;
+	color:rgb(68,68,68);
+}
+
+.index-page > p {
+	line-height: 210%;
+	margin:15px 0 15px 0;
+	text-align: justify;
+}
+
+.index-page > ul > li {
+	margin:12px 0 12px 40px;
+}

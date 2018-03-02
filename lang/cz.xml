@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding='utf-8'?>
+<langText>
+  <menu>
+      <index>Představení</index>
+      <division>Divize</division>
+      <products>Vlastní přípravky</products>
+      <activities>Investiční aktivity</activities>
+      <notices>Povinné údaje</notices>
+      <communication>Komunikace s akcionáři</communication>
+      <contact>Kontakt</contact>
+  </menu>
+  <index>
+    <par1>Dobrý den, vítejte na stránkách společnosti </par1>
+    <company>MAHONY PHARMA a.s.,</company>
+    <par2>Společnost vznikla z popudu strategického investora v roce 2012 s cílem vyvíjet obchodní aktivity v oblastech:</par2>
+    <ul-li1>Doplňků stravy a funkčních potravin</ul-li1>
+    <ul-li2>Dietních přípravků</ul-li2>
+    <ul-li3>Homeopatik</ul-li3>
+    <ul-li4>Vybraných služeb v oblasti zdravotnictví</ul-li4>
+    <par3>MAHONY PHARMA a.s. si za krátkou dobu své existence vybudovala solidní ekonomické zázemí, provedla první strategické nákupy, dala na trh první přípravky ze svého budoucího portfolia a vytvořila profesionální tým kmenových zaměstnanců i externích spolupracovníků.</par3>
+    <par4>Společnost má sídlo v Praze, na Slovensku je aktivní cestou své dceřiné společnosti DIETPHARMA s.r.o.</par4>
+    <par5>Obsah její činnosti nejlépe vystihuje slogan, který je krédem celé společnosti: </par5>
+    <slogan>VŠE PRO VÁŠ WELL-BEING</slogan>
+  </index>
+  <division>
+    <par1>Společnost MAHONY PHARMA a.s. je vnitřně rozdělena na několik divizí: </par1>
+    <ul-li1>MAHONY DIET --> dietní přípravky určené k redukci tělesné hmotnosti a well-being </ul-li1>
+    <ul-li2>MAHONY FOOD SUPPLEMENTS --> vybrané doplňky stravy s vědecky ověřeným účinkem </ul-li2>
+    <ul-li3>MAHONY BIOFOOD --> vybrané biopotraviny </ul-li3>
+    <ul-li4>MAHONY HOMEO --> vybrané homeopatické speciality </ul-li4>
+    <ul-li5>MAHONY VET --> vybrané přípravky pro veterinární použití </ul-li5>
+  </division>
+  <products>
+    <li1>MAHONY DIET</li1>
+    <li2>MAHONY FOOD SUPPLEMENTS</li2>
+    <li3>MANOHY BIOFOOD</li3>
+    <li4>MAHONY HOMEO</li4>
+    <li5>MAHONY VET</li5>
+    <par1>Na podzim roku 2014 dáváme na trh zcela novou řadu přípravků k redukci tělesné hmotnosti. Bližší informace: </par1>
+  </products>
+  <activities>
+    <par1>Společnost MAHONY PHARMA a.s. je primárně společností investiční a její snahou jsou tedy smysluplné </par1>
+    <b1>investice do inovativních přípravků, technologií, </b1>
+    <par2>stejně jako do </par2>
+    <b2>nákupu hotových obchodních společností se zajímavým portfoliem, </b2>
+    <par3>které se kryje s předmětem naší činnosti.</par3>
+    <par4>Již rok po svém vzniku provedla společnost několik prvních strategických nákupů v hodnotě několika desítek miliónů korun.</par4>
+  </activities>
+  <notices>
+    <par1>Dle Zákona o obchodních korporacích platného od roku 2014, jsme povinni sdělovat na našich stránkách některé údaje, týkající se naší společnosti a používat jich v komunikaci s našimi akcionáři.</par1>
+    <title1>Název firmy:</title1>
+    <par2>MAHONY PHARMA a.s.</par2>
+    <par3>spisová značka B 18184, vedená u Městského soudu v Praze, zapsaná dne 24.04.2012</par3>
+    <title2>Sídlo firmy:</title2>
+    <par4>V jámě 699/5, Nové Město, 110 00 Praha 1</par4>
+    <title3>IČ:</title3>
+    <par5>242 95 361</par5>
+    <title4>Statutární orgán:</title4>
+    <b1>PharmDr. Monika Kyselicová </b1>
+    <par6>– předseda představenstva, </par6>
+    <b2>Mgr. Denisa Valentová </b2>
+    <par7>– člen představenstva, </par7>
+    <b3>ing. Marek Špičák </b3>
+    <par8>– člen představenstva </par8>
+    <title5>Výpis z OR: </title5>
+    <par9>ke stažení </par9>
+    <here>zde</here>
+    <title6>Příslušnost ke koncernu: </title6>
+    <par10>MAHONY PHARMA a.s. je 100% vlastníkem těchto společností: </par10>
+    <cr>Česká republika </cr>
+    <b4>EL CAMINO VERDE s.r.o. </b4>
+    <par11>, IČ: 262 07 516 , se sídlem Ke Koulce 7, 150 00 Praha 5 </par11>
+    <sv>Slovenská republika </sv>
+    <b5>DIETPHARMA s.r.o. </b5>
+    <par12>, IČO: 46 960 538, se sídlem Bárdošova 2/A, 831 01 Bratislava </par12>
+  </notices>
+  <communication>
+    <par1>Konání valných hromad: 2014 – 2015 – 2016 – 2017 – 2018 – 2019 – 2020 ... </par1>
+    <par2>Po prokliku roku: </par2>
+    <ul-li1>Zveřejnění účetní závěrky </ul-li1>
+    <ul-li2>Pozvánka </ul-li2>
+    <ul-li3>Návrh akcionářů na usnesení VH </ul-li3>
+    <ul-li4>Zápis z jednání VH </ul-li4>
+  </communication>
+  <contact>
+    <par1>Kde nás najdete? </par1>
+    <par2>V jámě 699/5, Nové Město, 110 00 Praha 1 </par2>
+  </contact>
+</langText>

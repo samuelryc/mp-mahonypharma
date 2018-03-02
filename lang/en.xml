@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding='utf-8'?>
+<langText>
+  <menu>
+    <index>Introduction</index>
+    <division>Division</division>
+    <products>Our products</products>
+    <activities>Investment activities</activities>
+    <notices>Mandatory information</notices>
+    <communication>Communication with shareholders</communication>
+    <contact>Contact</contact>
+  </menu>
+  <index>
+    <par1>Welcome to the website of </par1>
+    <company>MAHONY PHARMA Inc.</company>
+    <par2>The company was established thanks to the incentive of a strategic investor in 2012 in order to develop business activities in the following sectors:</par2>
+    <ul-li1>Food supplements</ul-li1>
+    <ul-li2>Weight-loss related products</ul-li2>
+    <ul-li3>Homeopathic drugs</ul-li3>
+    <ul-li4>Various services in the field of health care</ul-li4>
+    <par3>Despite being a relatively new society, MAHONY PHARMA Inc. has built a solid economic background, accomplished its first key purchases, marketed the first products from its future portfolio and built a professional team of basic employees and external collaborators.</par3>
+    <par4>The company has its headquarters in Prague while being active in Slovakia thanks to its daughter company DIETPHARMA Inc.</par4>
+    <par5>Its activities are best summarized by the slogan at the heart of the society: </par5>
+    <slogan>EVERYTHING FOR YOUR WELL-BEING</slogan>
+  </index>
+  <division>
+    <par1>The society MAHONY PHARMA Inc. is divided into several segments:</par1>
+    <ul-li1>MAHONY DIET --> dietary supplements used for weight loss purposes and well-being improvement</ul-li1>
+    <ul-li2>MAHONY FOOD SUPPLEMENTS --> selected food supplements with scientifically verified benefits</ul-li2>
+    <ul-li3>MAHONY BIOFOOD --> selected high quality organic food</ul-li3>
+    <ul-li4>MAHONY HOMEO --> selected homeopathic products</ul-li4>
+    <ul-li5>MAHONY VET --> selected products for veterinary purposes</ul-li5>
+  </division>
+  <products>
+    <li1>MAHONY DIET</li1>
+    <li2>MAHONY FOOD SUPPLEMENTS</li2>
+    <li3>MANOHY BIOFOOD</li3>
+    <li4>MAHONY HOMEO</li4>
+    <li5>MAHONY VET</li5>
+    <par1>We will be introducing a new product line for weight-loss purposes in autumn 2014. For more information visit: </par1>
+  </products>
+  <activities>
+    <par1>The society MAHONY PHARMA Inc. is primarily an investment company and aims at </par1>
+    <b1>making meaningful investments on innovative products, technologies </b1>
+    <par2>and </par2>
+    <b2>purchases of business companies with interesting portfolios </b2>
+    <par3>and working in the fields that interest us.</par3>
+    <par4>The company has already made its first strategic purchases valued at over ten million Czech crowns a year after its creation.</par4>
+  </activities>
+  <notices>
+    <par1>According to business laws regarding corporations updated in 2014, we must publish various information on our corporation and use it while communicating with our shareholders.</par1>
+    <title1>Name of the company:</title1>
+    <par2>MAHONY PHARMA Inc.</par2>
+    <par3>File number: B 18184, kept at the Municipal court of Prague, registered on 24.04.2012</par3>
+    <title2>Headquarters: </title2>
+    <par4>V jámě 699/5, Nové Město, 110 00 Prague 1</par4>
+    <title3>RN:</title3>
+    <par5>242 95 361</par5>
+    <title4>Statutory authority:</title4>
+    <b1>PharmDr. Monika Kyselicová </b1>
+    <par6>– president of the board of directors, </par6>
+    <b2>Mgr. Denisa Valentová </b2>
+    <par7>– member of the board of directors, </par7>
+    <b3>ing. Marek Špičák </b3>
+    <par8>– member of the board of directors.</par8>
+    <title5>Statement from the business register:</title5>
+    <par9>Available for download </par9>
+    <here>here</here>
+    <title6>Affiliated to the group are:</title6>
+    <par10>MAHONY PHARMA Inc. owns 100% of the following companies:</par10>
+    <cr>Czech Republic</cr>
+    <b4>EL CAMINO VERDE Ltd.</b4>
+    <par11>, IČ: 262 07 516, with headquarters at Ke Koulce 7, 150 00 Praha 5</par11>
+    <sv>Slovak Republic</sv>
+    <b5>DIETPHARMA Ltd.</b5>
+    <par12>, IČO: 46 960 538, with headquarters at Bárdošova 2/A, 831 01 Bratislava</par12>
+  </notices>
+  <communication>
+    <par1>Shareholders’ meetings: 2014 – 2015 – 2016 – 2017 – 2018 – 2019 – 2020...</par1>
+    <par2>Click through the years:</par2>
+    <ul-li1>Publication of financial statements</ul-li1>
+    <ul-li2>Invitation</ul-li2>
+    <ul-li3>Suggestions of the shareholders based on the shareholders’ meeting</ul-li3>
+    <ul-li4>Record from the shareholders’ meeting</ul-li4>
+  </communication>
+  <contact>
+    <par1>Where can you find us?</par1>
+    <par2>V jámě 699/5, Nové Město, 110 00 Prague 1</par2>
+  </contact>
+</langText>

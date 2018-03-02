@@ -1,0 +1,15 @@
+.products-page {
+	font-size:12px;
+	padding:0 40px;
+	color:rgb(68,68,68);
+	text-align: justify;
+}
+
+.products-page > ul > li {
+	margin:15px 0 15px 40px;
+}
+
+.products-page > ul > ul > li {
+	margin:20px 0 20px 80px;
+	line-height: 210%;
+}

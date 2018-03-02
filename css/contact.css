@@ -1,0 +1,18 @@
+.contact-page {
+	font-size:12px;
+	padding:0 40px;
+	color:rgb(68,68,68);
+}
+
+.contact-page > h4 {
+	font-size:16px;
+	margin:20px 0 20px 0;
+}
+
+#map_canvas {
+	display:block;
+	width: 860px;
+	height: 500px;
+	background-color: white;
+	margin:10px 0 10px 0;
+}
